@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>~/Homepage</title>
+    <title>~/homepage</title>
     <link>https://lolipuru.github.io/</link>
-    <description>Recent content on ~/Homepage</description>
+    <description>Recent content on ~/homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 23 Apr 2021 05:03:01 +0700</lastBuildDate><atom:link href="https://lolipuru.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://lolipuru.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mypost</title>
-      <link>https://lolipuru.github.io/posts/mypost/</link>
-      <pubDate>Fri, 23 Apr 2021 05:03:01 +0700</pubDate>
+      <title>Works</title>
+      <link>https://lolipuru.github.io/works/</link>
+      <pubDate>Fri, 23 Apr 2021 06:25:29 +0700</pubDate>
       
-      <guid>https://lolipuru.github.io/posts/mypost/</guid>
-      <description>AAAAAAAAAAAAA</description>
+      <guid>https://lolipuru.github.io/works/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://lolipuru.github.io/about/</link>
+      <pubDate>Fri, 23 Apr 2021 06:23:46 +0700</pubDate>
+      
+      <guid>https://lolipuru.github.io/about/</guid>
+      <description>hi, welcome to my webpage
+I&amp;rsquo;m 21 years old, high vocational certificate in business computer. i interested in android development, i didn&amp;rsquo;t have any programming experience (but know few things like git, c# and assembly.)
+currently i still didn&amp;rsquo;t looking for work or study. because covid situation here, so i spend my free time to learn and try building android custom
+about site name (lolipuru) isn&amp;rsquo;t have any meaning, and i&amp;rsquo;m also not lolicon too.</description>
     </item>
     
   </channel>
